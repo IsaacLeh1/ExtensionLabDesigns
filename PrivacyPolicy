@@ -1,0 +1,46 @@
+Threat Detector Privacy Policy
+Last Updated: November 15, 2023
+Version: 1.0
+
+Introduction
+This Privacy Policy explains how the Threat Detector extension collects, uses, and protects your information. We are committed to ensuring the privacy and security of your data while providing basic threat detection capabilities.
+
+Information We Collect
+Data Type Purpose Retention Period
+URLs of websites you visit To scan for potential security issues 30 days
+Security scan results To track detection history 30 days
+Known threat indicators To identify potential issues Until browser session ends
+All collected data is stored locally on your device and is not transmitted to external servers.
+
+How We Use Your Information
+The information we collect is used exclusively for:
+
+Scanning websites for potential security issues
+Providing you with alerts about detected threats
+Maintaining a history of your recent scans
+Data Sharing
+This extension does not share any of your data with third parties. All processing happens locally on your device.
+
+Your Rights and Choices
+You have the right to:
+
+Clear all stored data at any time via the extension options
+Disable the extension temporarily or permanently
+Uninstall the extension, which will remove all associated data
+Security Capabilities and Limitations
+Important: This extension provides basic threat detection for informational purposes only. It is not a replacement for comprehensive security software and cannot guarantee complete protection against all threats.
+
+Our capabilities include:
+
+Basic detection of known malicious domains
+Identification of suspicious page elements
+Monitoring for large data transmissions
+Our limitations include:
+
+Cannot detect all types of malware or security threats
+Limited to threats that match our detection patterns
+Does not prevent malicious actions, only detects and reports them
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make significant changes, we will provide a notification when you next use the extension.
+
+If you have any questions about this Privacy Policy, please contact us at: ExtensionLabDesigns@gmail.com
